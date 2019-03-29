@@ -49,7 +49,7 @@ public class Hostel{
 	            }
 			return true;
 	   }
-       public static void allotHostel(){
+       public static void allotHostel()throws IOException{
     	   //write your code here!!!
     	   writedata();
        }
