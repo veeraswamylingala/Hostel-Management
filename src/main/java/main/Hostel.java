@@ -51,7 +51,7 @@ public class Hostel{
 	   }
        public static void allotHostel(){
     	   //write your code here!!!
-    	   
+    	   writedata();
        }
 
        public static boolean verifyStudent(int regNo){
